@@ -1,5 +1,0 @@
-sudo apt install xorg
-sudo apt install mate-desktop-environment
-sudo apt install mate-desktop
-sudo apt install lightdm
-sudo apt install lightdm-gtk-greeter
