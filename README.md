@@ -1,2 +1,2 @@
 # chromebookfun
-Stuff for my chromebook
+This is a repo of Stuff for my chromebook
