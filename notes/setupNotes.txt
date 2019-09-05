@@ -1,0 +1,8 @@
+Generate SSH Key
+ssh-keygen -t rsa -b 4096 -C "natenoonen@gmail.com"
+
+Install xclip
+sudo apt install xclip
+
+XClip public key to paste into GitHub repo SSH keys
+xclip -sel clip <~/.ssh/id_rsa.pub
