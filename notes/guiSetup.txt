@@ -1,0 +1,3 @@
+sudo apt install xorg
+sudo apt install mate-desktop-environment
+sudo apt install mate-desktop
