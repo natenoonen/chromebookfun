@@ -6,6 +6,5 @@ jupyter notebook --generate-config
 
 jupyter notebook password
 
-https://aichamp.wordpress.com/2017/06/13/setting-up-jupyter-notebook-server-as-service-in-ubuntu-16-04/
-
+https://gist.github.com/kylemcdonald/4ac2a1690b866b630998e76c2fec373a
 
